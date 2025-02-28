@@ -1,6 +1,6 @@
 # Hi there, I'm Sudeep Bhandari 👋
 
-Welcome to my GitHub profile! I'm passionate about software developer, and I love exploring new technologies and working on interesting projects. Here's a little bit about me:
+Welcome to my GitHub profile! I'm passionate software developer, and I love exploring new technologies and working on interesting projects. Here's a little bit about me:
 
 ## 🔭 Current Projects
 - **[Creating a react native application](#)**:A comprehensive cross platform mobile to help catering workers to get their employees.
