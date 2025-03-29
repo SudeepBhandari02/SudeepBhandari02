@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate software developer, and I love expl
 - **LinkedIn**: [Sudeep Bhandari](https://www.linkedin.com/in/sudeepbhandari02/)
 
 ## ⚡ Fun fact
-- I love hiking and exploring the great outdoors!
+- Jack of All is a Master of None
 
 ## 🛠️ Technologies & Tools
 - **Programming Languages**:  JavaScript, C++
