@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate software developer, and I love expl
 - **[Creating a react native application](#)**: Developing  react-native application to implememt a Augmented Reality project to cut and paste the surrounding object  into any software.
 
 ## 🌱 Learning
-- Currently diving deep into **Machine Learning** and **Artificial Intelligence**.
+- Currently diving deep into **Machine Learning** and **Artificial Intelligence - Agents**.
 - Exploring **Cloud Computing** with AWS and Azure.
 
 ## 👯 Collaboration
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate software developer, and I love expl
 - **LinkedIn**: [Sudeep Bhandari](https://www.linkedin.com/in/sudeepbhandari02/)
 
 ## ⚡ Fun fact
-- Jack of All is a Master of None
+- Why do programmers prefer dark mode? Because light attracts bugs!
 
 ## 🛠️ Technologies & Tools
 - **Programming Languages**:  JavaScript, C++
